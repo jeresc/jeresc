@@ -1,10 +1,6 @@
 # Hi 👋, I'm jeresc
 
-## About me
-
 I specialize in web development, with a primary focus on creating outstanding user experiences. My expertise revolves around crafting user-friendly interfaces that prioritize intuitive navigation and responsive design, ensuring a seamless and enjoyable online journey for visitors through strategies to enhance online visibility and improve search engine rankings, driving organic traffic and attracting potential customers
-
-- 📫 How to reach me **jeremiastomassrc@gmail.com**
 
 ## Connect with me:
 
@@ -12,6 +8,8 @@ I specialize in web development, with a primary focus on creating outstanding us
 <a href="https://linkedin.com/in/jeresc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeresc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jeresc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeresc" height="30" width="40" /></a>
 </p>
+
+- 📫 How to reach me **jeremiastomassrc@gmail.com**
 
 ## Languages and Tools
 
