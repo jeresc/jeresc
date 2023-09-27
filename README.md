@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm jeresc</h1>
-<h3 align="center">About me</h3>
-<p align="center">I specialize in web development, with a primary focus on creating outstanding user experiences. My expertise revolves around crafting user-friendly interfaces that prioritize intuitive navigation and responsive design, ensuring a seamless and enjoyable online journey for visitors through strategies to enhance online visibility and improve search engine rankings, driving organic traffic and attracting potential customers.</p>
+<h1>Hi 👋, I'm jeresc</h1>
+<hr />
+
+<h3>About me</h3>
+<p>I specialize in web development, with a primary focus on creating outstanding user experiences. My expertise revolves around crafting user-friendly interfaces that prioritize intuitive navigation and responsive design, ensuring a seamless and enjoyable online journey for visitors through strategies to enhance online visibility and improve search engine rankings, driving organic traffic and attracting potential customers.</p>
 
 - 📫 How to reach me **jeremiastomassrc@gmail.com**
 
+<hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeresc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeresc" height="30" width="40" /></a>
