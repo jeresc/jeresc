@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm jeresc</h1>
-<h3 align="center">I specialize in web development, with a primary focus on creating outstanding user experiences. My expertise revolves around crafting user-friendly interfaces that prioritize intuitive navigation and responsive design, ensuring a seamless and enjoyable online journey for visitors through strategies to enhance online visibility and improve search engine rankings, driving organic traffic and attracting potential customers.</h3>
+<h3 align="center">About me</h3>
+<p align="center">I specialize in web development, with a primary focus on creating outstanding user experiences. My expertise revolves around crafting user-friendly interfaces that prioritize intuitive navigation and responsive design, ensuring a seamless and enjoyable online journey for visitors through strategies to enhance online visibility and improve search engine rankings, driving organic traffic and attracting potential customers.</p>
 
 - 📫 How to reach me **jeremiastomassrc@gmail.com**
 
