@@ -7,7 +7,6 @@ I specialize in web development, with a primary focus on creating outstanding us
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/jeresc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeresc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jeresc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeresc" height="30" width="40" /></a>
 </p>
 
