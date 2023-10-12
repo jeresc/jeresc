@@ -18,4 +18,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Buenos_Aires
           base: header, activity
+          base_hireable: yes
           plugin_isocalendar: yes
