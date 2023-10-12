@@ -17,5 +17,5 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Buenos_Aires
-          base: ""
+          base: header, activity
           plugin_isocalendar: yes
